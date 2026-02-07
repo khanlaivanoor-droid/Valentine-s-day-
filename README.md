@@ -146,17 +146,17 @@ Even though distance separates us, it has only made our bond stronger.
 
 <div class="song">
 <p>Can't Help Falling In Love</p>
-<iframe width="220" height="120" src="https://www.youtube.com/embed/vGJTaP6anOU"></iframe>
+<iframe width="220" height="120" src="https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC?si=A6axWDbWRWyplawBBZr-hg"></iframe>
 </div>
 
 <div class="song">
 <p>Maula Mere Maula</p>
-<iframe width="220" height="120" src="https://www.youtube.com/embed/3qjJk3zK8yM"></iframe>
+<iframe width="220" height="120" src="https://open.spotify.com/track/4CGBTtlrjZj7ydpV52cgB4?si=r5ihtafmTFWNDjvku7e2EA"></iframe>
 </div>
 
 <div class="song">
 <p>Kiss Me Like It's The First Time</p>
-<iframe width="220" height="120" src="https://www.youtube.com/embed/2Vv-BfVoq4g"></iframe>
+<iframe width="220" height="120" src="https://open.spotify.com/track/3UreorlkaSV18acvaPWPIn?si=4Knf9OMNSDeUrBR5Z1FMHw"></iframe>
 </div>
 
 <div class="song">
@@ -166,12 +166,7 @@ Even though distance separates us, it has only made our bond stronger.
 
 <div class="song">
 <p>Tum ho</p>
-<iframe width="220" height="120" src="https://www.youtube.com/embed/sElE_BfQ67s"></iframe>
-</div>
-
-<div class="song">
-<p>Ruposh</p>
-<iframe width="220" height="120" src="https://www.youtube.com/embed/0zG1r5nM5nY"></iframe>
+<iframe width="220" height="120" src="https://open.spotify.com/track/7uNnlVit5qDvfOje0pqICF?si=6eAMiIcNTVe37bno4RaLKg"></iframe>
 </div>
 
 <div class="song">
@@ -181,7 +176,7 @@ Even though distance separates us, it has only made our bond stronger.
 
 <div class="song">
 <p>Tu Hi Mera</p>
-<iframe width="220" height="120" src="https://www.youtube.com/embed/J0kYvK0Q6PQ"></iframe>
+<iframe width="220" height="120" src="https://open.spotify.com/track/1CVqr5LImdmJ1Upt4z08Pm?si=8Ifwc2C0QnaVHIHrlllcbA"></iframe>
 </div>
 
 </section>
